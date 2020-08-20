@@ -1,0 +1,19 @@
+npm install expreess cors mongoose dotenv
+express: light weight framework for node.js
+cors: cross-origin resource sharing ( easily access outside of server from source)
+mongoose: make interacting with MongoDB from node.js simplier
+dotenv: loads env var from .env file  (make dev easier)
+
+npm install -g nodemon
+nodemon: make dev easier, auto restart node application when file change in the directory
+
+
+api endpoints routes
+
+react: js lib for user interface, jsx
+
+//"npm start" to start our React App
+//"npm install bootstrap"
+//"npm install react-router-dom": easier to route different url to react component
+
+// npm install axios: connect frontend to backend ( frontned send http request to backend database)
